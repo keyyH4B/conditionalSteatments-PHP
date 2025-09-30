@@ -41,7 +41,7 @@ Aplikasi web sederhana untuk menghitung diskon belanja di sebuah toko pakaian be
 
 #### 📸 Tampilan Aplikasi
 
-![Tampilan Aplikasi Toko Pakaian](https://i.imgur.com/your-screenshot-link-for-tokopakaian.png) 
+![Tampilan Aplikasi Toko Pakaian](https://github.com/keyyH4B/conditionalSteatments-PHP/blob/main/tokopakaian.png) 
 
 ---
 
@@ -76,7 +76,7 @@ Sebuah sistem sederhana untuk menghitung gaji bersih karyawan berdasarkan bebera
 
 #### 📸 Tampilan Aplikasi
 
-![Tampilan Aplikasi Gaji Karyawan](https://i.imgur.com/your-screenshot-link-for-gaji.png)
+![Tampilan Aplikasi Gaji Karyawan](https://github.com/keyyH4B/conditionalSteatments-PHP/blob/main/gaji.png)
 
 ## 💻 Teknologi yang Digunakan
 
